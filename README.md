@@ -45,10 +45,6 @@ Requirements
   * Windows 8/8.1
   * Windows 10
 
-Donate
----
-Bitcoin: `17eAafhEYnxmnj2nQ92tDFdDzATL27gcj`
-
 Credits
 ---
 NetSerializer  
