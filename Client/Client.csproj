@@ -36,6 +36,7 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <DebugSymbols>false</DebugSymbols>
   </PropertyGroup>
+yeah
   <PropertyGroup>
     <StartupObject>xClient.Program</StartupObject>
   </PropertyGroup>
