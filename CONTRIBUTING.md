@@ -13,4 +13,4 @@
 3. Make your modification compact - don't reformat source code in your request. It makes code review more difficult.
 4. PR of reformatting (changing of ws/TAB, line endings or coding style) of source code won't be accepted.
 
-In short: The easier the code review is, the better the chance your pull request will get accepted.
+In short: The easier the code review is, the better chance your pull request will get accepted.
